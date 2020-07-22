@@ -1,16 +1,28 @@
-### Hi there 👋
+# Pavel Darazhko 👋
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pdarazhko/)
+[![Resume](https://img.shields.io/badge/-Resume-orange)](https://drive.google.com/file/d/1vkde8z-OvWoMRKe6kWWfqNIed6M9xvVc/preview)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-yellow)](https://pdarazhko.github.io/)
 
-<!--
-**pdarazhko/pdarazhko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+export default () => ({
+  pronouns: "He" | "Him",
+  askMeAbout: [
+    "tech", "biohacking", "kettlebellSport", "hiking"
+  ],
+  learning:[
+    "data structure", "algorithms", "system design"
+  ]
+  technologies: {
+    frontEnd: {
+      js: ["react"],
+    },
+    backEnd: {
+      java: ["spring"],
+    },
+    bigData: [ "akka", "apacheZookeepe", "rabbitMq", "cassandra"]
+    cloud: ["aws"]
+    container: ["docker"]
+    databases: ["mongo", "postgreSQL", "cassandra"]
+  },
+});
+```
