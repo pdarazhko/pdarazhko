@@ -19,7 +19,7 @@ export default () => ({
     backEnd: {
       java: ["spring"],
     },
-    bigData: [ "akka", "apacheZookeepe", "rabbitMq", "cassandra"]
+    bigData: [ "akka", "apacheZookeeper", "rabbitMq", "cassandra"]
     cloud: ["aws"]
     container: ["docker"]
     databases: ["mongo", "postgreSQL", "cassandra"]
