@@ -13,9 +13,6 @@ export default () => ({
     "data structure", "algorithms", "system design"
   ]
   technologies: {
-    frontEnd: {
-      js: ["react"],
-    },
     backEnd: {
       java: ["spring"],
     },
