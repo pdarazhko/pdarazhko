@@ -16,8 +16,7 @@ export default () => ({
       java: ["spring"],
     },
     bigData: [ "akka", "apacheZookeeper", "rabbitMq", "cassandra"]
-    container: ["docker"]
-    databases: ["mongo", "postgreSQL"]
+    databases: ["postgreSQL"]
   },
 });
 ```
